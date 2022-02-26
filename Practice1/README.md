@@ -19,5 +19,4 @@ RAM: 12.0 GB
 google chrome is a famous brower, so when I successfully open in google chrome and see the correct website, I make sure that it would work for the majority of the users.
 
 ## Result
-![alt text](https://drive.google.com/file/d/1cDM3eS5sv8bK4c-ilSIvPN68q2lrREnI/view?usp=sharing)
-![alt text](https://github.com/CarolynLo/MSWE_WEB-PROGRAMMING/Practice1/Practice1_Result.JPG/image.jpg?raw=true)
+![alt text](https://github.com/CarolynLo/MSWE_WEB-PROGRAMMING/Practice1/Practice1_Result.JPG?raw=true)
