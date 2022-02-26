@@ -19,3 +19,6 @@ RAM: 12.0 GB
 
 ## Description
 google chrome is a famous brower, so when I successfully open in google chrome and see the correct website, I make sure that it would work for the majority of the users.
+
+## Result
+![result](Practice2_Result.JPG)
