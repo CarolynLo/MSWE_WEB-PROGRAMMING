@@ -23,4 +23,4 @@ Google chrome is a famous brower, so when I successfully open in google chrome a
 Add a buttom. If users clicked the buttom, the website shows the words and a link to my linkedin profile.
 
 ## Result
-![result](Practice3_Result.JPG)
+![result](Practice3_Result.png)
