@@ -21,8 +21,8 @@ go into the file directory and type "npm install" in CMD to install all the pack
 After that,
 
 1. use CMD:
-*go into the file directory (server) and type "npm run dev", then server starts.
-*open another cmd, go into the file directory (client) and  tpye "npm run build", then client starts.
+* go into the file directory (server) and type "npm run dev", then server starts.
+* open another cmd, go into the file directory (client) and  tpye "npm run build", then client starts.
 
 2. open a web browser (chrome), go to "localhost".
 
@@ -30,6 +30,7 @@ After that,
 ###### AJAX: Asynchronous JavaScript and XML
 
 Use ajax (axios), to send http request from web client and get response from server.
+
 And AJAX is asynchronous, this makes my web application faster.
 
 
