@@ -8,4 +8,4 @@
 
 ## Languages and Tools:
 
-HTML/CSS/JavaScript and Sublime
+HTML/CSS/JavaScript/TypeScript and Sublime
